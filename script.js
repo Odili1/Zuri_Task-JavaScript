@@ -1,0 +1,1 @@
+alert("Name: Ezedigwe Odilichukwu" + "\n" + "Height: 6ft" + "\n" + "Country: Nigeria")
